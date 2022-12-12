@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 -웹퍼블리셔
 -달리자!@@
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=HTML Academy&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-F05138?style=flat-square&logo=HTML5&logoColor=white"/>
